@@ -26,7 +26,7 @@
   .tabela-contato tr:nth-child(even) {
     background-color: #f4f4f4;
   }
-  
+
   /* Links */
   .tabela-contato a {
     color: #007bff;
