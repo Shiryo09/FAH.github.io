@@ -4,13 +4,28 @@ body {
     font-family: 'cinzel', serif;
 }
 
+body {
+    background-image: url('../site/img/catacomb_background.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
 .navbar {
-    background-color: #111;
     border-bottom: 1px solid #3a2f2f;
 }
 
-.navbar-brand {
+.navbar-inicio {
     color: #bfa76f !important;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.navbar-contato {
+    color: #bfa76f !important;
+    justify-content: space-between;
+    padding: 10px 20px;
 }
 
 .hero {
