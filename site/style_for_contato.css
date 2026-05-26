@@ -74,3 +74,17 @@ body {
     background: linear-gradient(#0d0d0d, #1a1a1a);
 
   }
+
+.formulario {
+  color: #bfa76f;
+  padding: 20px 20px;
+}
+
+  footer {
+    border-top: 1px solid #2a2a2a;
+    padding: 20px;
+    text-align: center;
+    color: #666;
+    margin-top: 40px;
+
+}
